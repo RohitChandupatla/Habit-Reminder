@@ -36,3 +36,10 @@ When day starts...
   
   
  ## Functional Requirements
+ 
+ 
+ ## Tech Stack
+Scripting Language : Python</br>
+Query Language : SQL</br>
+Backend Framework : Django</br>
+Frontend Library/ Framework : React, Bootstrap</br>
