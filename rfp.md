@@ -18,25 +18,41 @@ Change your habits and change your life....
   - **Sanjay Saripalli**<br>
   
   
- ## Functional Requirements
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ## Tech Stack
-Scripting Language : Python</br>
-Database : MySQL</br>
-Backend Framework : Django</br>
-Frontend Library/ Framework : React, Bootstrap</br>
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Functional Requirements
+ Create a progressive web app with authentication and authorization.
+ 1. Administrator(access to all information including app settings)
+ 2. User(access to their content)
+
+The app must work on:
+- an IPhone SE
+- an Android Device
+- a laptop computer
+- an iPad
+Expected  entities may include:
+
+User
+-email
+-password
+-username
