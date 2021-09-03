@@ -10,6 +10,23 @@ Change your habits and change your life....
  
  ## Project Vision
  
+ We could like to create a progerssive web application that can be played in any mobile device. <br>
+ The app would encourage it uses to complete a 'Daily Habit' by giving specefic task per day. <br>
+ This app has a number of great features which makes it ideal for keeping track of habits and routines.
+ 
+ This app has a number of great features which makes it ideal for keeping track of habits and routines.
+ Used together, you’ll be able to develop healthy habits with ease. If you’re falling behind, the app will send you a reminder, and keep you on target.
+ 
+If you’re looking for inspiration, the application comes with over pre-designed habits to get you started. One of the most appealing things is the beautifully designed and eye catching interface.
+
+The app is quick and easy to use, so you’ll be able to start developing great habits right away. If you plan to complete a set number of tasks for a specific date, the app calculates if you’re on track to complete it on time, enabling you to tailor your habits around your goals.
+
+When day starts...
+
+1. User gets some pre-defined habits where he gets remainder to complete it.
+2. Some habits can be customized on date which reminds user to complete within the time
+3. The completation of habits gives credit to the user which motivates him to be healthy with ease.
+ 
  ## Meet our team
  
   - **Abhilash Dhumala**<br> 
@@ -18,41 +35,4 @@ Change your habits and change your life....
   - **Sanjay Saripalli**<br>
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Functional Requirements
- Create a progressive web app with authentication and authorization.
- 1. Administrator(access to all information including app settings)
- 2. User(access to their content)
-
-The app must work on:
-- an IPhone SE
-- an Android Device
-- a laptop computer
-- an iPad
-Expected  entities may include:
-
-User
--email
--password
--username
+ ## Functional Requirements
