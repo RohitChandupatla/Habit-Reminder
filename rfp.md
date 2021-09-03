@@ -37,6 +37,6 @@ Change your habits and change your life....
  
  ## Tech Stack
 Scripting Language : Python</br>
-Query Language : SQL</br>
+Database : MySQL</br>
 Backend Framework : Django</br>
 Frontend Library/ Framework : React, Bootstrap</br>
