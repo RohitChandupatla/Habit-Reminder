@@ -1,6 +1,6 @@
 # RFP - Habit Reminder
 
-## Statement of Purpose
+## Statement Of Purpose
 
 Change your habits and change your life.... 
 
@@ -24,10 +24,10 @@ The app is quick and easy to use, so you’ll be able to start developing great 
 When day starts...
 
 1. User gets some pre-defined habits where he gets remainder to complete it.
-2. Some habits can be customized on date which reminds user to complete within the time
+2. Some habits can be customized on date which reminds user to complete within the time.
 3. The completation of habits gives credit to the user which motivates him to be healthy with ease.
  
- ## Meet our team
+ ## Meet Our Team
  
   - **Abhilash Dhumala**<br> 
   - **Arnav Akula**<br>
