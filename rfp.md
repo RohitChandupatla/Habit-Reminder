@@ -87,7 +87,7 @@ The App must work on:
 - an Android Device
 - a laptop Computer
 - an iPad
-- 
+
 ### Font size:
-The Font preference is between 12-14.
+The Font preference is between 12-14px, which is easier to read.
 
