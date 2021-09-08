@@ -68,7 +68,8 @@ The authenication is only for the Administrator, who has control over the data i
  ### Screen Flow:
  Home Screen: Consists of a header with login button, a footer and a box that displays habit of the day, and an image and a button that directs to the Habit details screen.</br>
  <br>Login page: This a admin login page, from where admin gets access to add, remove or update the data.</br>
- <br>Habit details screen: This screen displays all the details of the habit to complete the habit like an image and description of what to do.</br>
+ <br>Habit details screen: This screen displays all the details of the habit to complete the habit like an image and description of what to do. If the user wants to push his limits he/she can customize the habit. We have a button that redirects to the Habit Customization Screen</br>
+ <br>Habit Customization Screen: This screen allows the user to customize the habits based on his/her interest.</br>
  
  ## Tech Stack
  
