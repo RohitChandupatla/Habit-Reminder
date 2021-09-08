@@ -91,3 +91,4 @@ The App must work on:
 ### Font size:
 The Font preference is between 12-14px, which is easier to read.
 
+### Schedule:
