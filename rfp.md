@@ -67,6 +67,7 @@ The authenication is only for the Administrator, who has control over the data i
  
  ### Screen Flow:
  
+ <br>Login page: This a admin login page, from where admin gets access to add, remove or update the data.</br>
  
  ## Tech Stack
  
