@@ -48,6 +48,7 @@ The app must work on:
 - an iPad
 
 Expected Entities may include:
+
  USERS</br>
  &nbsp; UserId        ->    Primary Key</br>
  &nbsp; UserName</br>
@@ -56,9 +57,9 @@ Expected Entities may include:
  
  Habits</br>
  &nbsp; HabitId        ->    Primary Key</br>
- &nbsp; image</br>
- &nbsp; description</br>
- &nbsp; points attained</br>
+ &nbsp; Image</br>
+ &nbsp; Description</br>
+ &nbsp; PointsAttained</br>
  
  ### Screen Flow:
  
