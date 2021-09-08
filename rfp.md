@@ -46,15 +46,31 @@ The app must work on:
 - an Android Device
 - a laptop computer
 - an iPad
-Expected  entities may include:
 
-User
--email
--password
--username
+Expected Entities may include:
+ USERS</br>
+ &nbsp; UserId        ->    Primary Key</br>
+ &nbsp; UserName</br>
+ &nbsp; Password</br>
+ &nbsp; Email</br>
+ 
+ Habits</br>
+ &nbsp; HabitId        ->    Primary Key</br>
+ &nbsp; image</br>
+ &nbsp; description</br>
+ &nbsp; points attained</br>
+ 
+ ### Screen Flow:
  
  ## Tech Stack
+ 
 Scripting Language : Python</br>
 Query Language : SQL</br>
 Backend Framework : Django</br>
 Frontend Library/ Framework : React, Bootstrap</br>
+
+#### Entity-Relationship diagram:
+
+### Themes & Colors:
+
+### Font size:
