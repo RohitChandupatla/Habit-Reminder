@@ -62,6 +62,7 @@ Expected Entities may include:
  
  ### Screen Flow:
  
+ 
  ## Tech Stack
  
 Scripting Language : Python</br>
@@ -71,6 +72,9 @@ Frontend Library/ Framework : React, Bootstrap</br>
 
 #### Entity-Relationship diagram:
 
+
 ### Themes & Colors:
 
+
 ### Font size:
+
