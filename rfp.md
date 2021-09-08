@@ -79,6 +79,7 @@ Frontend Library/ Framework : React, Bootstrap</br>
 
 
 ### Themes & Colors:
+Application carries a theme of white for the background and Green for headers, footers, buttons and menues as green mostly uesd to represent nature and health.
 
 ### Device Support:
 The App must work on:
