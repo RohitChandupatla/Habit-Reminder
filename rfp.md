@@ -80,6 +80,13 @@ Frontend Library/ Framework : React, Bootstrap</br>
 
 ### Themes & Colors:
 
-
+### Device Support:
+The App must work on:
+- an IPhone SE
+- an Android Device
+- a laptop Computer
+- an iPad
+- 
 ### Font size:
+The Font preference is between 12-14.
 
