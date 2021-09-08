@@ -66,7 +66,7 @@ The authenication is only for the Administrator, who has control over the data i
  &nbsp; PointsAttained</br>
  
  ### Screen Flow:
- 
+ <br>Home Screen: Consists of a header with login button, a footer and a box that displays habit of the day, and an image and a button that directs to the Habit details screen.</br>
  <br>Login page: This a admin login page, from where admin gets access to add, remove or update the data.</br>
  
  ## Tech Stack
