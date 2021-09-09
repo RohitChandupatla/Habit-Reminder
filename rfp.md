@@ -102,6 +102,13 @@ The Font preference is between 12-14px, which is easier to read.
 - Must complete within 45 working days and 5 working days for acceptance testing and 3 days for prod release and fixes.
 - Maximum of 2 developers.
 
+## Performance Metrics
+
+- Responsive application in all kinds of devices. 
+- Eg: Android devices all screen sizes, iOS devices, and Desktop and laptops screens.
+- Page load max weight time for home screen is 3 seconds - 5 seconds
+- Home page load weight is less than 100kb.
+
 
 ### Schedule:
 
