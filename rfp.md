@@ -53,17 +53,18 @@ The authenication is only for the Administrator, who has control over the data i
 
  ## Expected Entities:
 
- USERS</br>
- &nbsp; UserId        ->    Primary Key</br>
- &nbsp; UserName</br>
- &nbsp; Password</br>
- &nbsp; Email</br>
+ ###USERS
+      -UserId        ->    Primary Key
+      -UserName
+      -Password
+      -Email
+      -CreatedOn
  
- Habits</br>
- &nbsp; HabitId        ->    Primary Key</br>
- &nbsp; Image</br>
- &nbsp; Description</br>
- &nbsp; PointsAttained</br>
+ ###Habits
+     -HabitId        ->    Primary Key
+     -Image
+     -Description
+     -PointsAttained
  
  ## Screen Flow:
  
