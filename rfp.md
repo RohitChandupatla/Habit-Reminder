@@ -51,7 +51,7 @@ The authenication is only for the Administrator, who has control over the data i
 5. If the details entered are <b>incorrect</b>, an error message is displayed stating <b>"Invalid credentials. Please contact the administrator"</b>
 
 
- ### Expected Entities:
+ ## Expected Entities:
 
  USERS</br>
  &nbsp; UserId        ->    Primary Key</br>
@@ -65,7 +65,7 @@ The authenication is only for the Administrator, who has control over the data i
  &nbsp; Description</br>
  &nbsp; PointsAttained</br>
  
- ### Screen Flow:
+ ## Screen Flow:
  
  Home Screen: Consists of a header with login button, a footer and a box that displays habit of the day, and an image and a button that directs to the Habit details screen.</br>
  <br>Login page: This a admin login page, from where admin gets access to add, remove or update the data.</br>
@@ -79,15 +79,15 @@ Query Language : SQL</br>
 Backend Framework : Django</br>
 Frontend Library/ Framework : React, Bootstrap</br>
 
-#### Entity-Relationship diagram:
+## Entity-Relationship diagram:
 
 
 
-### Themes & Colors:
+## Themes & Colors:
 
 Application carries a theme of white for the background and Green for headers, footers, buttons and menues as green mostly uesd to represent nature and health.
 
-### Device Support:
+## Device Support:
 
 The App must work on:
 - an IPhone SE
@@ -95,7 +95,7 @@ The App must work on:
 - a laptop Computer
 - an iPad
 
-### Font size:
+## Font size:
 The Font preference is between 12-14px, which is easier to read.
 
 ## Bidder Qualifications
@@ -114,8 +114,8 @@ The Font preference is between 12-14px, which is easier to read.
 - Home page load weight is less than 100kb.
 
 
-### Schedule:
+## Schedule:
 
-### Source:
+## Source:
 
 <https://github.com/denisecase/rfp-hunt/edit/master/rfp-hunt.md>
