@@ -116,6 +116,11 @@ The Font preference is between 12-14px, which is easier to read.
 
 ## Schedule:
 
+- 18-Aug-2021 to 28-Nov-2021 Requirement Gathering, Specifications and Mockup designs.
+- 12-jan-2022 to 24-Mar-2022 Development,
+- 24-Mar-2022 to 4-Apr-2022 Testing  
+- 4-Apr-2022 to 7-Apr-2022 Release.
+
 ## Source:
 
 <https://github.com/denisecase/rfp-hunt/edit/master/rfp-hunt.md>
