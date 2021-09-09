@@ -94,6 +94,15 @@ The App must work on:
 ### Font size:
 The Font preference is between 12-14px, which is easier to read.
 
+## Bidder Qualifications
+
+- Product based application which can maintain self.
+- Ready to use public apis with less cost.
+- Make sure to develop other features if extension required.
+- Must complete within 45 working days and 5 working days for acceptance testing and 3 days for prod release and fixes.
+- Maximum of 2 developers.
+
+
 ### Schedule:
 
 ### Source:
