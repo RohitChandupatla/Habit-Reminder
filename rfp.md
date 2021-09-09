@@ -44,11 +44,11 @@ When day starts...
 ### Authentication:
 The authenication is only for the Administrator, who has control over the data in the app. The authentication page must contain the following:
 
-1. <b>*username*, *password*</b> fields
-2. A <b>*Captcha*</b> field to verify it's a real person and not a bot.
-3. A <b>*submit*</b> button to validate the credentials provided by the admin.
-4. If the details entered are <b>correct</b>, the page is redirected to <b>admin panel</b>.
-5. If the details entered are <b>incorrect</b>, an error message is displayed stating <b>"Invalid credentials. Please contact the administrator"</b>
+1. ***username***, ***password*** fields
+2. A ***Captcha*** field to verify it's a real person and not a bot.
+3. A ***submit*** button to validate the credentials provided by the admin.
+4. If the details entered are **correct**, the page is redirected to **admin panel**.
+5. If the details entered are **incorrect**, an error message is displayed stating **"Invalid credentials. Please contact the administrator"**
 
 
  ## Expected Entities:
