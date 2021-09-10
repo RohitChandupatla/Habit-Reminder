@@ -40,6 +40,8 @@ When day starts...
  Create a progressive web app with authentication and authorization.
  1. Administrator(access to all information including app settings)
  2. User(access to their content)
+ 3. Head and Footer
+ 4. View Habits 
 
 ### Authentication:
 The authenication is only for the Administrator, who has control over the data in the app. The authentication page must contain the following:
@@ -50,7 +52,18 @@ The authenication is only for the Administrator, who has control over the data i
 4. If the details entered are **correct**, the page is redirected to **admin panel**.
 5. If the details entered are **incorrect**, an error message is displayed stating **"Invalid credentials. Please contact the administrator"**
 
+### Header and Footer:
 
+1. The screen has logo on the left side
+2. The right side of the screen is with account icon which contains profile settings and logout.
+3. The footer has add a joke icon which is used to add a habit to the account.
+
+### View Habits:
+
+1. User has atleast one habit which can be added after profile creation
+2. The habit can be viewed by clicking on the habit name
+3. User can check the habits and check in the box if the habit is completed.
+ 
  ## Expected Entities:
 
  ### User
