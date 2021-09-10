@@ -1,7 +1,7 @@
 # HabitReminder
 
 ## Introduction
-The objective of our web application is to display a couple of habits of the student on basis of the weekday.
+The objective of our web application is to display a habit of the student on basis of the weekday.
 Once the user hits on the habit, it shows some images, descriptions in the text, check the inbox to know either the habit is done today or not. If the user completes the habit for the day then we can add some points or credits to the account.
 
 ## Team:
