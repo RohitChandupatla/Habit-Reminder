@@ -137,6 +137,13 @@ The Font preference is between 12-14px, which is easier to read.
 - 24-Mar-2022 to 4-Apr-2022 Testing  
 - 4-Apr-2022 to 7-Apr-2022 Release.
 
+## Point Of Contact:
+Please feel free to reach us for any queries and find below contact details,
+ - **Abhilash Dhumala** - Product Advisor  - S542295@nwmissouri.edu <br> 
+  - **Arnav Akula** - Product Owner - S542308@nwmissouri.edu <br> 
+  - **Naveen Tanuku** - Decision Maker - S542000@nwmissouri.edu <br>
+  - **Sanjay Saripalli** - Requirment Specialist - S541669@nwmissouri.edu <br>
+
 ## Source:
 
 <https://github.com/denisecase/rfp-hunt/edit/master/rfp-hunt.md>
