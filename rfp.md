@@ -132,10 +132,12 @@ The Font preference is between 12-14px, which is easier to read.
 
 ## Schedule:
 
-- 18-Aug-2021 to 28-Nov-2021 Requirement Gathering, Specifications and Mockup designs.
-- 12-jan-2022 to 24-Mar-2022 Development,
-- 24-Mar-2022 to 4-Apr-2022 Testing  
-- 4-Apr-2022 to 7-Apr-2022 Release.
+| Duration               | Task                                                    |
+| -----------------------| ------------------------------------------------------- |
+|18/08/2021 - 28/11/2021|Requirement Gathering, Specifications and Mockup designs.|
+|12/01/2022 - 24/03/2022| Development |
+|24/03/2022 - 04/04/2022|Testing|
+|04/04/2022  - 07/04/2022| Release|
 
 ## Point Of Contact:
 Please feel free to reach us for any queries and find below contact details,
