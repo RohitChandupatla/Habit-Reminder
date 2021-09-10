@@ -54,8 +54,8 @@ The authenication is only for the Administrator, who has control over the data i
 
 ### Header and Footer:
 
-1. The screen has logo on the left side
-2. The right side of the screen is with account icon which contains profile settings and logout.
+1. The screen has logo on the top-left side
+2. The right-top side of the screen is with account icon which contains profile settings and logout.
 3. The footer has add a joke icon which is used to add a habit to the account.
 
 ### View Habits:
