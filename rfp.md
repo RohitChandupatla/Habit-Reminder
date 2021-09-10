@@ -97,7 +97,7 @@ Frontend Library/ Framework : React, Bootstrap</br>
 
 ## Entity-Relationship diagram:
 
-
+<img src="Images/ERDiagram.png" alt="ER_Diagram"/>
 
 ## Themes & Colors:
 
