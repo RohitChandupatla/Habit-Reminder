@@ -29,10 +29,10 @@ When day starts...
  
  ## Meet Our Team
  
-  - **Abhilash Dhumala**<br> 
-  - **Arnav Akula**<br>
-  - **Naveen Tanuku**<br>
-  - **Sanjay Saripalli**<br>
+  - **Abhilash Dhumala** - Product Advisor<br> 
+  - **Arnav Akula** - Product Owner <br> 
+  - **Naveen Tanuku** - Decision Maker<br>
+  - **Sanjay Saripalli** - Requirment Specialist <br>
   
   
  ## Functional Requirements
