@@ -16,6 +16,6 @@ Once the user hits on the habit, it shows some images, descriptions in the text,
 - 44691-02 Graduate Directed Project 
 - Spring 2021
 
-## Request for Proposal
-RFP of our project can be seen [here](https://github.com/NaveenTanuku/HabitReminder/blob/main/rfp.md).
+## Request For Proposal
+RFP of our project can be seen [HERE](https://github.com/NaveenTanuku/HabitReminder/blob/main/rfp.md).
 
