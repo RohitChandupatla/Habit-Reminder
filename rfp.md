@@ -102,9 +102,9 @@ Frontend Library/ Framework : React, Bootstrap</br>
 ## Screen Sketches:
 
 <img src="Images/CustomizationScreen.jpg" alt="CustomizationScreen"/>
-<img src="Images/HabitScreen.PNG" alt="HabitScreen"/>
-<img src="Images/HomeScreen.PNG" alt="HomeScreen"/>
-<img src="Images/LOGINScreen.PNG" alt="LOGINScreen"/>
+<img src="Images/HabitScreen.jpg" alt="HabitScreen"/>
+<img src="Images/HomeScreen.jpg" alt="HomeScreen"/>
+<img src="Images/LOGINScreen.jpg" alt="LOGINScreen"/>
 
 ## Themes & Colors:
 
