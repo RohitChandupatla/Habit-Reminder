@@ -99,6 +99,13 @@ Frontend Library/ Framework : React, Bootstrap</br>
 
 <img src="Images/ERDiagram.PNG" alt="ER_Diagram"/>
 
+## Screen Sketches:
+
+<img src="Images/CustomizationScreen.jpg" alt="CustomizationScreen"/>
+<img src="Images/HabitScreen.PNG" alt="HabitScreen"/>
+<img src="Images/HomeScreen.PNG" alt="HomeScreen"/>
+<img src="Images/LOGINScreen.PNG" alt="LOGINScreen"/>
+
 ## Themes & Colors:
 
 Application carries a theme of white for the background and Green for headers, footers, buttons and menues as green mostly uesd to represent nature and health.
