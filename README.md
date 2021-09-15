@@ -17,5 +17,5 @@ Once the user hits on the habit, it shows some images, descriptions in the text,
 - Spring 2021
 
 ## Request For Proposal
-[Proposal Repo](https://github.com/NaveenTanuku/HabitReminder/blob/main/rfp.md).
+RFP for the project [Here](https://github.com/NaveenTanuku/HabitReminder/blob/main/rfp.md).
 
